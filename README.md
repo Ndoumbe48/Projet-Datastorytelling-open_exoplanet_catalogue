@@ -46,7 +46,7 @@ Key columns: mass, radius, period, semi_major_axis, eccentricity, discovery_meth
 
 ## Conclusion
 
-Data storytelling transforms raw catalogues into scientific insights. This project shows that exoplanets are not a single population — they form natural families, follow universal laws, and are revealed through biased instruments. The 3D map reminds us that every new mission rewrites our cosmic atlas.
+Data storytelling transforms raw catalogues into scientific insights. This project shows that exoplanets are not a single population. They form natural families, follow universal laws, and are revealed through biased instruments. The 3D map reminds us that every new mission rewrites our cosmic atlas.
 
 ## Authors
 
