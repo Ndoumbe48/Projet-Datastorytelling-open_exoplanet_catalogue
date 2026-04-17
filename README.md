@@ -25,7 +25,7 @@ Les exoplanètes forment-elles naturellement des familles ?
 - Clustering K-Means : Révèle trois groupes interprétables.
 
 
-### Acte III : Biais de détection
+### Acte III : Biais de détection 
 
 Comment nos instruments influencent-ils ce que nous découvrons ?
 
