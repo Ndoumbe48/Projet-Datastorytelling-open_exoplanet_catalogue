@@ -6,9 +6,11 @@ Ce projet utilise la visualisation de données pour explorer le catalogue Open E
 
 Le récit est organisé en quatre actes, chacun répondant à une question spécifique.
 
-### Acte I : Exploration visuelle
+### Acte I : De l’ordre dans le chaos 
 
-Quelles sont les grandes tendances du recensement des exoplanètes ?
+À première vue, la visualisation brute révèle une apparente distribution aléatoire. Les points
+semblent dispersés sans ordre évident couvrant l’ensemble de la voûte céleste. Cette impression
+de chaos soulève une question fondamentale : Existe-t-il un ordre caché dans ces données ?
 
 - Masse vs Rayon : Une loi de puissance sépare les mondes rocheux des géantes gazeuses.
 - Période vs Demi-grand axe : Les exoplanètes suivent la troisième loi de Kepler, tout comme notre Système Solaire.
